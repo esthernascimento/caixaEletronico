@@ -26,13 +26,22 @@ Este projeto é uma **simulação de um caixa eletrônico (ATM)**, desenvolvida 
 - [Expo](https://expo.dev/)
 - [JavaScript (ES6+)](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 
-## 🚀 Como rodar o projeto
 
-1. **Clone o repositório:**
-   ```bash
-   git clone https://github.com/esthernascimento/caixaEletronico.git
+## 🛠️ Como Executar o Projeto
 
-2. **1. **Clone o repositório:**
-cd seu-repositorio
+```bash
+# 1. Clone este repositório
+git clone https://github.com/esthernascimento/caixaEletronico.git
 
-3. 
+# 2. Acesse a pasta do projeto
+cd caixaEletronico
+
+# 3. Instale as dependências
+npm install
+
+# 4. Inicie o projeto com Expo
+npx expo start
+```
+Abra o aplicativo **Expo Go** no seu celular e escaneie o QR Code exibido no terminal ou navegador para rodar o app no dispositivo.
+
+
