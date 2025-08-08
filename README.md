@@ -44,4 +44,9 @@ npx expo start
 ```
 Abra o aplicativo **Expo Go** no seu celular e escaneie o QR Code exibido no terminal ou navegador para rodar o app no dispositivo.
 
+## 👩‍💻 Desenvolvido por
+
+**Esther Nascimento**  
+[LinkedIn Esther](https://www.linkedin.com/in/esthernascimentooficial/)
+[GitHub Esther](https://github.com/esthernascimento)
 
